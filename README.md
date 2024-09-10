@@ -2,6 +2,8 @@
 An XCursor theme from Anno 2070 made for Linux. Because I like that game.
 Used [this](http://www.rw-designer.com/cursor-set/anno-2070) as the basis, then added new variants using [RW Cursor Editor](http://www.rw-designer.com/cursor-maker).
 
+![12137715](https://github.com/user-attachments/assets/1673e529-4888-4bf6-bce4-6462917c610a)
+
 # Installation
 1. Download .zip from below
 2. Extract wherever
