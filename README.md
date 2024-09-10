@@ -5,7 +5,7 @@ Used [this](http://www.rw-designer.com/cursor-set/anno-2070) and Bibata-Modern-C
 ![12137715](https://github.com/user-attachments/assets/1673e529-4888-4bf6-bce4-6462917c610a)
 
 # Installation
-1. Download .zip from below
+1. Download .zip from [here](https://github.com/Pandora1337/Anno-2070-linux-xcursor/releases/tag/1.0.0)
 2. Extract wherever
 3. Run `install.sh` or follow the manual instructions below
 4. Chose the theme using your distros theme selector.
